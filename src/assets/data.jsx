@@ -38,3 +38,19 @@ export const infoSection = [
         description: "We source only the highest quality products for our customers."
     }
 ];
+
+
+export const categoryImages = [
+    {
+        image: "https://tse2.mm.bing.net/th?id=OIG3.d3axt.GnQrpmdk6QKySu&pid=ImgGn",
+        name: "Men's Fashion"
+    },
+    {
+        image: "https://tse3.mm.bing.net/th?id=OIG2.Db63vWDzF7EavsDt5jSy&pid=ImgGn",
+        name: "Women's Fashion"
+    },
+    {
+        image: "https://tse3.mm.bing.net/th?id=OIG2.XiJ99B0FZiQ4Gpm8NwL9&pid=ImgGn",
+        name: "Kids Fashion"
+    }
+]

@@ -1,6 +1,7 @@
 import React from 'react'
 import ShowCategories from './ShowCategories'
 import InforSection from '../InforSection/InforSection'
+import CategorySection from '../CategorySection/CategorySection'
 
 const Home = () => {
     return (
@@ -9,6 +10,8 @@ const Home = () => {
             <ShowCategories></ShowCategories>
 
             <InforSection></InforSection>
+
+            <CategorySection></CategorySection>
         </div>
 
 
