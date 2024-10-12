@@ -8,7 +8,7 @@ const Links = ({ link }) => {
                 to={link.path}
                 className={({ isActive, isPending }) =>
                     `px-4 py-2 rounded transition duration-300 
-                    ${isActive ? 'text-red-500 font-bold' : isPending ? 'text-blue-500' : 'text-black hover:bg-gray-200'}`
+                    ${isActive ? 'text-blue-700 font-bold' : isPending ? 'text-blue-500 text-2xl' : 'text-black hover:bg-gray-200'}`
                 }
             >
                 {link.name}

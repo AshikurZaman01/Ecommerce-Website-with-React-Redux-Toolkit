@@ -16,6 +16,7 @@ const NavLinks = () => {
                     navLinks.map((link) => <Links key={link.id} link={link}></Links>)
                 }
             </ul>
+            <div className='divider h-1 bg-gray-400 rounded w-1/2 mx-auto '></div>
         </div>
     )
 }
