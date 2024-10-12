@@ -60,60 +60,90 @@ export const productsData = [
         id: 1,
         name: "Shirt",
         image: "https://img.freepik.com/free-psd/stylish-blue-plaid-shirt-men-isolated-transparent-background_191095-23044.jpg?semt=ais_hybrid",
-        price: "4.99"
+        price: "4.99",
+        rating: 4.5,
+        description: "Stylish blue plaid shirt for men.",
+        category: "Clothing"
     },
     {
         id: 2,
         name: "Jeans",
         image: "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?semt=ais_hybrid",
-        price: "29.99"
+        price: "29.99",
+        rating: 4.2,
+        description: "Comfortable denim jeans for everyday wear.",
+        category: "Clothing"
     },
     {
         id: 3,
         name: "Sneakers",
         image: "https://img.freepik.com/free-photo/pair-trainers_144627-3800.jpg?semt=ais_hybrid",
-        price: "49.99"
+        price: "49.99",
+        rating: 4.7,
+        description: "Trendy sneakers for a casual look.",
+        category: "Footwear"
     },
     {
         id: 4,
         name: "Hat",
         image: "https://img.freepik.com/free-photo/isolated-white-cap_125540-1024.jpg?semt=ais_hybrid",
-        price: "12.99"
+        price: "12.99",
+        rating: 4.0,
+        description: "Stylish white cap for sunny days.",
+        category: "Accessories"
     },
     {
         id: 5,
         name: "Jacket",
         image: "https://img.freepik.com/premium-photo/blue-leather-jacket-with-black-stripe-front_958541-6974.jpg?semt=ais_hybrid",
-        price: "59.99"
+        price: "59.99",
+        rating: 4.8,
+        description: "Premium blue leather jacket.",
+        category: "Outerwear"
     },
     {
         id: 6,
         name: "T-shirt",
         image: "https://img.freepik.com/free-vector/colorful-flat-rainbow-run-marathon-t-shirt_742173-14080.jpg?semt=ais_hybrid",
-        price: "9.99"
+        price: "9.99",
+        rating: 4.3,
+        description: "Colorful T-shirt for marathon runners.",
+        category: "Clothing"
     },
     {
         id: 7,
         name: "Shorts",
         image: "https://img.freepik.com/free-photo/blue-underpants-with-white-details_1203-1855.jpg?semt=ais_hybrid",
-        price: "19.99"
+        price: "19.99",
+        rating: 4.1,
+        description: "Comfortable blue shorts for summer.",
+        category: "Clothing"
     },
     {
         id: 8,
         name: "Socks",
         image: "https://img.freepik.com/free-photo/sock-isolated-white_1203-2367.jpg?semt=ais_hybrid",
-        price: "5.99"
+        price: "5.99",
+        rating: 4.6,
+        description: "Soft and cozy socks.",
+        category: "Accessories"
     },
     {
         id: 9,
         name: "Belt",
         image: "https://img.freepik.com/premium-photo/stylish-brown-leather-belt-carefully-arranged-neutral-background-fashion-display_406939-35502.jpg?semt=ais_hybrid",
-        price: "14.99"
+        price: "14.99",
+        rating: 4.4,
+        description: "Stylish brown leather belt.",
+        category: "Accessories"
     },
     {
         id: 10,
         name: "Scarf",
         image: "https://img.freepik.com/free-vector/3d-realistic-illustration-red-knitted-scarf-with-decorative-pattern-gold-fringe-isola_1441-1967.jpg?semt=ais_hybrid",
-        price: "8.99"
+        price: "8.99",
+        rating: 4.3,
+        description: "Warm knitted scarf with decorative patterns.",
+        category: "Accessories"
     }
 ];
