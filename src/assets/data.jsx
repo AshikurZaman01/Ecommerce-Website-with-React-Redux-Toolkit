@@ -54,3 +54,66 @@ export const categoryImages = [
         name: "Kids Fashion"
     }
 ]
+
+export const productsData = [
+    {
+        id: 1,
+        name: "Shirt",
+        image: "https://img.freepik.com/free-psd/stylish-blue-plaid-shirt-men-isolated-transparent-background_191095-23044.jpg?semt=ais_hybrid",
+        price: "4.99"
+    },
+    {
+        id: 2,
+        name: "Jeans",
+        image: "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?semt=ais_hybrid",
+        price: "29.99"
+    },
+    {
+        id: 3,
+        name: "Sneakers",
+        image: "https://img.freepik.com/free-photo/pair-trainers_144627-3800.jpg?semt=ais_hybrid",
+        price: "49.99"
+    },
+    {
+        id: 4,
+        name: "Hat",
+        image: "https://img.freepik.com/free-photo/isolated-white-cap_125540-1024.jpg?semt=ais_hybrid",
+        price: "12.99"
+    },
+    {
+        id: 5,
+        name: "Jacket",
+        image: "https://img.freepik.com/premium-photo/blue-leather-jacket-with-black-stripe-front_958541-6974.jpg?semt=ais_hybrid",
+        price: "59.99"
+    },
+    {
+        id: 6,
+        name: "T-shirt",
+        image: "https://img.freepik.com/free-vector/colorful-flat-rainbow-run-marathon-t-shirt_742173-14080.jpg?semt=ais_hybrid",
+        price: "9.99"
+    },
+    {
+        id: 7,
+        name: "Shorts",
+        image: "https://img.freepik.com/free-photo/blue-underpants-with-white-details_1203-1855.jpg?semt=ais_hybrid",
+        price: "19.99"
+    },
+    {
+        id: 8,
+        name: "Socks",
+        image: "https://img.freepik.com/free-photo/sock-isolated-white_1203-2367.jpg?semt=ais_hybrid",
+        price: "5.99"
+    },
+    {
+        id: 9,
+        name: "Belt",
+        image: "https://img.freepik.com/premium-photo/stylish-brown-leather-belt-carefully-arranged-neutral-background-fashion-display_406939-35502.jpg?semt=ais_hybrid",
+        price: "14.99"
+    },
+    {
+        id: 10,
+        name: "Scarf",
+        image: "https://img.freepik.com/free-vector/3d-realistic-illustration-red-knitted-scarf-with-decorative-pattern-gold-fringe-isola_1441-1967.jpg?semt=ais_hybrid",
+        price: "8.99"
+    }
+];
